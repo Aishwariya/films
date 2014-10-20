@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Student_Jokes>
+    <Joke>
+        <Title>Exam</Title>
+        <Text>Just failed my French exam, they deducted me 10% for using deodorant.</Text>
+    </Joke>
+
+    <Joke>
+        <Title>Women</Title>
+        <Text>2 women sitting at a table quietly.</Text>
+    </Joke>
+
+    <Joke>
+        <Title>Women</Title>
+        <Text>Q. Why do women defy the laws of gravity?</Text>
+        <Text>A. Because the heavier they get the easier they are to pick up.</Text>
+
+    </Joke>
+
+</Student_Jokes>
